@@ -1,0 +1,2 @@
+This is another file.
+We would add more file to test how we can add all at once to the stagged area
