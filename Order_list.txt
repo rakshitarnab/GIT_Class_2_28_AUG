@@ -1,3 +1,7 @@
 Laptop : 15
 HDD : 12
 SSD : 15
+
+
+Med3 =240
+Med4 = 45
