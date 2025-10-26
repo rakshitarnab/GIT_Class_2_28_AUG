@@ -1,3 +1,7 @@
 Laptop : 15
 HDD : 12
 SSD : 15
+
+
+Med1 = 100
+Med2 = 200
