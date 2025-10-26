@@ -1,0 +1,3 @@
+Laptop : 15
+HDD : 12
+SSD : 15
