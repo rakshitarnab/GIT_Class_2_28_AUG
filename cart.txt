@@ -1,2 +1,0 @@
-This is the cart file.
-We are directly adding this file on remote repo
