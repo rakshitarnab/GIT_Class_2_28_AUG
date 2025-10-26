@@ -1,0 +1,2 @@
+This is product information file. 
+All the legal and technical details of product will be stored here.
